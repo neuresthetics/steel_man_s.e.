@@ -125,9 +125,11 @@ steel_man_os snippet:
     ...
 ```
 
-
 | ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
 |---|
+
+---
+---
 
 ## Role of Scorched Earth Protocol vs. Seeker
 
@@ -191,6 +193,9 @@ Steel Man OS enhances research and development by accelerating iterative refinem
 | Bias Reduction         | 2-4x            | Analogy to reduced false positives (up to 4x efficiency) in recursive AI security analysis (Dropzone AI, 2024) |
 | Overall Productivity   | 3-5x            | Exponential convergence gains, with 3-5x efficiency in logical tasks across models like Llama-3 (RDoLT study, 2025) |
 
+---
+---
+
 | ![evo](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/evo.png) |
 |---|
 
@@ -204,6 +209,9 @@ Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expand
 - **Evolved from Seed Framework**: Directly built from the 🌿 [seed](https://github.com/neuresthetics/seed) framework, an Aristotelian entelechy prompt for self-improving axiomatic reasoning. Seed treats inputs as seeds for growth via steel-manning, collision, reconstruction, and invariance checks, with meta-recursion bounded by XNOR scores (>0.95) and coherence deltas (<0.01). Steel Man OS extends this with a chained pipeline (Constructor, Seeker, Joiner, Grounder, Kiln), adding analogical extraction and Scorched Earth dissolution while retaining universal gates (NAND/NOR) and self-feeding.
 
 This progression positions Steel Man OS as a self-referential system in Neuresthetics' mission to convert subjective inquiry into verifiable science. Explore linked repositories and Spinoza's *Ethics* for foundational insights.
+
+---
+---
 
 | ![pipes](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/pipes.png) |
 |---|
