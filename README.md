@@ -62,7 +62,8 @@ The Steel Man OS balances constructive extraction with destructive reduction, hi
 
 **Interplay in the Pipeline**: The Seeker introduces analogical richness post-Construction, allowing symbolic depth to inform collisions and unifications. However, the Scorched Earth Protocol (via Kiln) ultimately reduces this to invariants, creating a tension-resolving flow: expansion (Seeker) → synthesis (Collider/Joiner) → verification (Grounder) → dissolution (Kiln). This ensures outputs are both functionally insightful and rigorously invariant.
 
-![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png)
+| ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
+|---|
 
 ## Applications in Research and Programming
 
@@ -86,7 +87,8 @@ Steel Man OS provides a versatile framework for enhancing critical thinking and 
 
 Overall, Steel Man OS acts as a "thinking machine" for these fields, promoting Spinoza-style deductive rigor and gate-based hardening. Implement it programmatically by parsing the JSON components into scripts, or use it as a mental model for manual application. For examples, see the GitHub repo's usage guides.
 
-![evo](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/evo.png)
+| ![evo](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/evo.png) |
+|---|
 
 
 ## Evolution and Lineage
@@ -99,7 +101,8 @@ Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expand
 
 This progression positions Steel Man OS as a self-referential system in Neuresthetics' mission to convert subjective inquiry into verifiable science. Explore linked repositories and Spinoza's *Ethics* for foundational insights.
 
-![pipes](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/pipes.png)
+| ![pipes](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/pipes.png) |
+|---|
 
 ## Usage
 
