@@ -125,6 +125,9 @@ steel_man_os snippet:
     ...
 ```
 
+| ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
+|---|
+
 ---
 ---
 
@@ -153,12 +156,8 @@ The Steel Man OS balances constructive extraction with destructive reduction, hi
 
 **Interplay in the Pipeline**: The Seeker introduces analogical richness post-Construction, allowing symbolic depth to inform collisions and unifications. However, the Scorched Earth Protocol (via Kiln) ultimately reduces this to invariants, creating a tension-resolving flow: expansion (Seeker) → synthesis (Collider/Joiner) → verification (Grounder) → dissolution (Kiln). This ensures outputs are both functionally insightful and rigorously invariant.
 
----
-
 | ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
 |---|
-
----
 
 ## 📐 Applications in Research and Programming
 
@@ -247,9 +246,6 @@ A highly detailed, professional corporate illustration in Art Nouveau style with
 ```
 A highly detailed, professional corporate illustration in Art Nouveau style infused with subtle cyberpunk elements, visualizing the evolution and lineage of a recursive axiomatic framework within a philosophical ecosystem. At the center, an elegant, flowing tree of life with sinuous organic vines and floral motifs in gold and emerald tones represents growth and progression: roots labeled "Seed Framework" as an Aristotelian entelechy seed sprouting upward, branching into "Spinoza Lab" with symbols of Substance Monism and conatus as ornate, glowing crystalline orbs. The canopy blooms into "Steel Man OS," depicted as a chained pipeline of interlocking metallic stages (Constructor, Seeker, Collider, Joiner, Grounder, Kiln) adorned with logic gates (NAND, NOR, XNOR) as neon-lit cyberpunk circuits in electric blue and purple hues, emitting holographic light. Faded realistic textures of circuit boards, ancient manuscripts (like Spinoza's Ethics), and digital code overlays blend into the background, symbolizing the mission to convert subjective inquiry into verifiable science, with AI ethics and unified theories as ethereal, flowing banners. The composition is balanced and symmetrical, like a tech company infographic, with intricate linework, high contrast, and a sense of infinite recursion through mirrored loops. Ultra-high resolution, polished rendering for a corporate-grade poster.
 ```
-
-| ![lines](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/lines.png) |
-|---|
 
 ## ⚠️ The Double-Edged Sword: Harnessing Power with Caution
 
