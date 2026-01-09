@@ -84,6 +84,9 @@ Steel Man OS provides a versatile framework for enhancing critical thinking and 
 
 Overall, Steel Man OS acts as a "thinking machine" for these fields, promoting Spinoza-style deductive rigor and gate-based hardening. Implement it programmatically by parsing the JSON components into scripts, or use it as a mental model for manual application. For examples, see the GitHub repo's usage guides.
 
+![evo](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/evo.png)
+
+
 ## Evolution and Lineage
 
 Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expanding foundational projects into a recursive framework for hardening ideas and extracting invariants.
