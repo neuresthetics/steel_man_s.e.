@@ -156,8 +156,12 @@ The Steel Man OS balances constructive extraction with destructive reduction, hi
 
 **Interplay in the Pipeline**: The Seeker introduces analogical richness post-Construction, allowing symbolic depth to inform collisions and unifications. However, the Scorched Earth Protocol (via Kiln) ultimately reduces this to invariants, creating a tension-resolving flow: expansion (Seeker) → synthesis (Collider/Joiner) → verification (Grounder) → dissolution (Kiln). This ensures outputs are both functionally insightful and rigorously invariant.
 
+---
+
 | ![panel1](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/panel1.png) |
 |---|
+
+---
 
 ## 📐 Applications in Research and Programming
 
@@ -196,11 +200,10 @@ Steel Man OS enhances research and development by accelerating iterative refinem
 ---
 ---
 
+## Evolution and Lineage
+
 | ![evo](https://github.com/neuresthetics/steel_man_s.e./blob/main/img/evo.png) |
 |---|
-
-
-## Evolution and Lineage
 
 Steel Man OS is an advanced evolution within the Neuresthetics ecosystem, expanding foundational projects into a recursive framework for hardening ideas and extracting invariants.
 
